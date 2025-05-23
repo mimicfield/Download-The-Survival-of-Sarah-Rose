@@ -13,7 +13,7 @@
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/Download-now-blue)](https://archive.org/download/hub-release/HubRelease.zip)
+[![Download Now](https://img.shields.io/badge/Download-now-blue)](https://archive.org/download/GameRelease/AdultGame.zip)
 
 ---
 
